@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://github.com/JoseVinicius-P/Animes-Lists-Flutter/blob/main/Media%20git/capa.jpg?raw=true">
+  <img width="600" src="https://github.com/JoseVinicius-P/Animes-Lists-Flutter/blob/337a0ae0ba2d88224031fe86ea036b0185964ed1/Media%20git/capa.jpg">
 </p>
 <h1 align="center">Animes Lists</h1>
 
@@ -7,7 +7,7 @@ Este é um site gerado com o flutter e possui como função criar a armazenar v�
 Este site foi desenvolvido utlizando o Flutter Modular que permite melhor organização e modularização do projeto, além de possuir recursos que permitem a injeção de dependência e roteamento. O app consome a api Jikan e salva os dados das listas do usuário com o Firebase no cloud firestore, através de autenticação com o google. Também forma usados recursos que otimizam a responsividade do app.
 <h2>_</h2>
 <p align="center">
-  <img width="600" src="https://github.com/JoseVinicius-P/Animes-Lists-Flutter/blob/main/Media%20git/site.gif?raw=true">
+  <img width="600" src="https://github.com/JoseVinicius-P/Animes-Lists-Flutter/blob/337a0ae0ba2d88224031fe86ea036b0185964ed1/Media%20git/site.gif">
 </p>
 <p align="center"><a href="https://josevinicius-p.github.io">Site</a> em funcionamento</p>
 
